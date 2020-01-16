@@ -28,7 +28,7 @@
           "name": "Bulbasaur",
           "types": ["Grass", "Poison"],
           "total": 318,
-          ... // All of the rest of the colums in the CSV
+          ... // All of the rest of the columns in the CSV
         }
         ```
 
